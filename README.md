@@ -1,1 +1,1 @@
-# goit-js-hw-03
+This is my JavaScript homework №3 (goit-js-hw-03)
